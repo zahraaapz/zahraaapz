@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I have a bachelor's degree in computer engineering <br>      from Semnan University<br>👀 I’m interested in programming<br>🌱 I’m currently learning flutter<br>💞️ I’m looking to collaborate on your project<br>
+👋 Hi, I have a bachelor's degree in computer engineering <br>       from Semnan University<br>👀 I’m interested in programming<br>🌱 I’m currently learning flutter<br>💞️ I’m looking to collaborate on your project<br>
 
 
 ## 🌐 Socials:
